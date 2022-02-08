@@ -29,8 +29,8 @@ dependencies:
   flutter:
     sdk: flutter
   
-  http: ^0.12.2
-  youtube_explode_dart: ^1.7.5
+  http: ^0.13.4
+  youtube_explode_dart: ^1.10.9+1
 
 dev_dependencies:
   flutter_test:
